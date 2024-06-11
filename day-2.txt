@@ -1,1 +1,1 @@
-Today I made a basic 
+Today I made a HTML page using basic elements like paragraph, heading, list etc. 
