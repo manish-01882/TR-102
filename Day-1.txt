@@ -1,1 +1,3 @@
-I started the training by going to the office at 10 AM. I met with my trainer and he asked what i 
+I started the training by going to the office at 10 AM. I met with my trainer and he asked what I know about Web Development.
+Then he gave me some basic idea about Web Development and showed me how many technologies are used to make a website.
+And then he assigned me to study basic HTML elements. 
