@@ -1,0 +1,44 @@
+Date: June 12, 2024
+
+Topics Covered:
+
+    Advanced HTML
+
+Details:
+
+    HTML Forms:
+        Learned about the <form> element and its role in collecting user input.
+        Explored various form input types such as text (<input type="text">), password (<input type="password">), email (<input type="email">), and buttons (<button>).
+        Implemented form labels using the <label> tag for better accessibility.
+
+    Form Attributes and Methods:
+        Studied important form attributes such as action, method, and name.
+        Understood the difference between GET and POST methods for form submission.
+        Practiced creating a form that submits data to a server endpoint.
+
+    Tables:
+        Learned how to create and structure tables using <table>, <tr>, <th>, and <td> tags.
+        Explored table attributes and styling techniques.
+        Practiced creating tables with headers, rows, and data cells.
+
+    Multimedia Tags:
+        Introduced to multimedia tags like <audio>, <video>, and <iframe>.
+        Embedded audio and video files in an HTML document.
+        Learned to use attributes such as controls, autoplay, and loop for multimedia elements.
+
+Practical Exercise:
+
+    Created a form with various input types, labels, and submit button.
+    Developed a table to display structured data, including headers and multiple rows.
+    Embedded an audio file and a video file into an HTML page with appropriate controls.
+
+Reflection:
+
+    Advanced HTML elements like forms and tables are powerful tools for creating interactive and data-driven web pages.
+    Embedding multimedia enhances user engagement and experience.
+    Practical exercises helped solidify the concepts and improved confidence in using advanced HTML features.
+
+Challenges and Solutions:
+
+    Challenge: Aligning table cells correctly and applying styles.
+        Solution: Revisited the lecture and practiced more examples to get a better grasp of table structures and CSS styling.
