@@ -1,3 +1,27 @@
-I started the training by going to the office at 10 AM. I met with my trainer and he asked what I know about Web Development.
-Then he gave me some basic idea about Web Development and showed me how many technologies are used to make a website.
-And then he assigned me to study basic HTML elements. 
+Date: June 10, 2024
+
+Topics Covered:
+
+    Introduction to the Course
+
+Details:
+
+    Course Overview:
+        Explored the course structure, including the range of topics to be covered, such as HTML, CSS, JavaScript, Node.js, and React.
+        Understood the learning objectives and expected outcomes by the end of the course.
+        Familiarized myself with the instructor, Colt Steele, and his teaching style through the introductory videos.
+
+    Development Environment Setup:
+        Installed necessary software and tools for web development, including a code editor (VS Code), Node.js, and Git.
+        Configured the development environment by setting up the code editor with useful extensions and themes.
+        Verified the installation of Node.js and npm (Node Package Manager) by running simple commands in the terminal.
+
+    Initial Exercises:
+        Completed initial setup exercises to ensure all tools were correctly installed and functioning.
+        Wrote a "Hello, World!" HTML file to test the setup and ensure the browser displayed the file correctly.
+
+Reflection:
+
+    The introductory session was thorough and provided a clear roadmap of the learning journey ahead.
+    Setting up the development environment was straightforward, thanks to the detailed instructions provided.
+    I'm excited to delve into the practical aspects of web development in the upcoming sessions.
