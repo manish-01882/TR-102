@@ -1,0 +1,13 @@
+Date: June 14, 2024
+
+Topics Covered:
+
+Introduction to CSS
+Details:
+
+CSS Basics:
+Linked a CSS file to an HTML document to add styles.
+Practiced applying basic CSS properties such as color, font size, and text alignment.
+Reflection:
+
+Starting with CSS felt empowering, as I could finally add visual styles to the HTML structure I built.

@@ -1,0 +1,13 @@
+Date: June 20, 2024
+
+Topics Covered:
+
+CSS Flexbox
+Details:
+
+Using Flexbox for Layouts:
+Explored the Flexbox layout model for responsive design.
+Practiced using properties like flex-direction, justify-content, and align-items to organize and align elements within a container.
+Reflection:
+
+Flexbox makes creating layouts much simpler, and I can see its potential for responsive designs.

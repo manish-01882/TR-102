@@ -2,25 +2,20 @@ Date: June 10, 2024
 
 Topics Covered:
 
-    Introduction to the Course
-
+Introduction to Web Development
 Details:
 
-    Course Overview:
-        Explored the course structure, including the range of topics to be covered, such as HTML, CSS, JavaScript.
-        Understood the learning objectives and expected outcomes by the end of the course.
-        Familiarized myself with the instructor, Colt Steele, and his teaching style through the introductory videos.
+Overview of Web Development:
 
-    Development Environment Setup:
-        Installed necessary software and tools for web development, including a code editor (VS Code) and Git.
-        Configured the development environment by setting up the code editor with useful extensions and themes.
+Explored the fundamentals of web development, including front-end and back-end development.
+Discussed the tools and technologies that will be used, like HTML, CSS, JavaScript, Git, and APIs.
+Set learning objectives and reviewed the scope of the course.
+Development Environment Setup:
 
-    Initial Exercises:
-        Completed initial setup exercises to ensure all tools were correctly installed and functioning.
-        Wrote a "Hello, World!" HTML file to test the setup and ensure the browser displayed the file correctly.
-
+Installed a code editor (VS Code), Git, and browser developer tools.
+Configured VS Code with essential extensions for web development.
+Practiced using Git for version control and tested the setup with simple commands.
 Reflection:
 
-    The introductory session was thorough and provided a clear roadmap of the learning journey ahead.
-    Setting up the development environment was straightforward, thanks to the detailed instructions provided.
-    I'm excited to delve into the practical aspects of web development in the upcoming sessions.
+The introductory session provided a solid foundation of what web development entails.
+Setting up the development environment was straightforward, and I'm ready to begin coding.

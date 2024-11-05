@@ -1,0 +1,13 @@
+Date: June 19, 2024
+
+Topics Covered:
+
+CSS Positioning Basics
+Details:
+
+Positioning Elements:
+Learned different positioning methods (static, relative, absolute, and fixed).
+Practiced positioning elements on a page to control layout.
+Reflection:
+
+Positioning adds a lot of control over the layout, and it was helpful to see how different positioning types affect placement.
