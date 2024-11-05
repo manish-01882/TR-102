@@ -1,0 +1,13 @@
+Date: June 13, 2024
+
+Topics Covered:
+
+HTML5 Semantic Elements
+Details:
+
+Semantic HTML Tags:
+Learned about the importance of semantic HTML tags like <header>, <footer>, <nav>, <article>, and <section>.
+Practiced organizing content with semantic tags to improve accessibility and code readability.
+Reflection:
+
+Using semantic tags clarified the structure of the webpage and helped me understand the importance of accessibility.

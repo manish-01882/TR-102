@@ -1,0 +1,13 @@
+Date: June 21, 2024
+
+Topics Covered:
+
+CSS Grid Basics
+Details:
+
+Grid Layouts:
+Learned about CSS Grid for creating complex layouts.
+Practiced defining rows and columns and placing items within the grid using grid-template-areas, grid-row, and grid-column.
+Reflection:
+
+CSS Grid provides great control over layouts, especially for structuring pages with multiple sections.

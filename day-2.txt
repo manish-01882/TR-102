@@ -2,37 +2,12 @@ Date: June 11, 2024
 
 Topics Covered:
 
-    HTML Basics
-
+HTML Basics
 Details:
 
-    Introduction to HTML:
-        Learned about the importance and role of HTML in web development.
-        Studied the basic structure of an HTML document, including the <!DOCTYPE html>, <html>, <head>, and <body> tags.
-        Understood how to create and save an HTML file.
-
-    Basic HTML Tags and Elements:
-        Explored various HTML tags such as headings (<h1> to <h6>), paragraphs (<p>), and links (<a>).
-        Learned how to use attributes within tags to add additional information, such as the href attribute for links.
-        Practiced creating lists, both ordered (<ol>) and unordered (<ul>), with list items (<li>).
-
-    Creating a Simple Webpage:
-        Applied the knowledge of basic tags to create a simple webpage.
-        Added headings, paragraphs, and links to the webpage.
-        Experimented with embedding images using the <img> tag and setting the src attribute to the image URL.
-
-    Practical Exercise:
-        Created a basic HTML document from scratch.
-        Included various elements like headings, paragraphs, images, and links.
-        Ensured proper nesting of tags and correct use of attributes.
-
+HTML Structure and Syntax:
+Learned the basic structure of an HTML document, including <!DOCTYPE html>, <html>, <head>, and <body> tags.
+Created a simple webpage structure to practice using fundamental tags like headings, paragraphs, and links.
 Reflection:
 
-    Gained a strong foundational understanding of HTML, which is crucial for web development.
-    Felt more confident in creating and structuring HTML documents.
-    Enjoyed the hands-on practice, which solidified the concepts learned in the lecture.
-
-Challenges and Solutions:
-
-    Challenge: Initially struggled with properly nesting HTML tags.
-        Solution: Revisited the lecture on HTML structure and practiced more examples to ensure correct nesting.
+Practicing the HTML basics was enjoyable and felt like a good start to building a webpage from scratch.

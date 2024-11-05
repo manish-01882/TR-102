@@ -1,0 +1,13 @@
+Date: June 24, 2024
+
+Topics Covered:
+
+Responsive Web Design with Media Queries
+Details:
+
+Using Media Queries:
+Learned about media queries to make web pages responsive to different screen sizes.
+Practiced creating breakpoints for mobile, tablet, and desktop views to adapt layout and styling.
+Reflection:
+
+Media queries are essential for creating adaptable designs, and they allowed me to tailor the look for various devices.

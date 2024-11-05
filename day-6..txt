@@ -1,0 +1,13 @@
+Date: June 17, 2024
+
+Topics Covered:
+
+CSS Selectors and Properties
+Details:
+
+Selectors and Properties:
+Explored CSS selectors (element, class, and ID selectors) and practiced applying styles to different elements.
+Learned various CSS properties, including background color, font style, and border.
+Reflection:
+
+CSS selectors make styling very flexible, and I enjoyed experimenting with different properties.

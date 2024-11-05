@@ -1,0 +1,13 @@
+Date: June 18, 2024
+
+Topics Covered:
+
+CSS Box Model
+Details:
+
+Understanding the Box Model:
+Studied the box model in CSS, which includes content, padding, border, and margin.
+Practiced adjusting these properties to control spacing around elements.
+Reflection:
+
+Understanding the box model helped me gain control over element layout, which is critical for precise styling.
