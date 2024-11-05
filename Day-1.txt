@@ -7,14 +7,13 @@ Topics Covered:
 Details:
 
     Course Overview:
-        Explored the course structure, including the range of topics to be covered, such as HTML, CSS, JavaScript, Node.js, and React.
+        Explored the course structure, including the range of topics to be covered, such as HTML, CSS, JavaScript.
         Understood the learning objectives and expected outcomes by the end of the course.
         Familiarized myself with the instructor, Colt Steele, and his teaching style through the introductory videos.
 
     Development Environment Setup:
-        Installed necessary software and tools for web development, including a code editor (VS Code), Node.js, and Git.
+        Installed necessary software and tools for web development, including a code editor (VS Code) and Git.
         Configured the development environment by setting up the code editor with useful extensions and themes.
-        Verified the installation of Node.js and npm (Node Package Manager) by running simple commands in the terminal.
 
     Initial Exercises:
         Completed initial setup exercises to ensure all tools were correctly installed and functioning.
