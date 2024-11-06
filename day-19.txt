@@ -1,0 +1,15 @@
+Date: July 3, 2024
+
+Topics Covered:
+
+    JavaScript Arrays and Objects
+
+Details:
+
+    Working with Arrays and Objects:
+        Learned how to store multiple values in arrays and access them.
+        Practiced creating and using objects to store related data with key-value pairs.
+
+Reflection:
+
+    Arrays and objects provide great ways to organize data, and I can see how they’ll be useful for handling complex data.

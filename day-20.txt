@@ -1,0 +1,15 @@
+Date: July 4, 2024
+
+Topics Covered:
+
+    JavaScript DOM Manipulation
+
+Details:
+
+    Interacting with the DOM:
+        Learned about the Document Object Model (DOM) and how JavaScript can interact with HTML elements.
+        Practiced selecting elements and changing their content or styles with JavaScript.
+
+Reflection:
+
+    DOM manipulation was a major step in adding interactivity to webpages, and it’s exciting to see how the page updates instantly.

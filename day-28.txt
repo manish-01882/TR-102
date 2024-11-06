@@ -1,0 +1,16 @@
+Date: July 16, 2024
+
+Topics Covered:
+
+    JavaScript DOM Manipulation and Events
+
+Details:
+
+    DOM Basics:
+        Practiced selecting and modifying HTML elements with JavaScript.
+    Event Listeners:
+        Explored events like click, mouseover, and how they trigger functions for user interactivity.
+
+Reflection:
+
+    DOM manipulation and events bring dynamic interactivity, making websites more engaging for users.

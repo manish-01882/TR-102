@@ -1,0 +1,15 @@
+Date: June 27, 2024
+
+Topics Covered:
+
+    CSS Variables and Units
+
+Details:
+
+    Using Variables and Different Units:
+        Practiced creating CSS variables for consistent styling and easy adjustments.
+        Explored various units like %, em, rem, vw, and vh for responsive layouts.
+
+Reflection:
+
+    CSS variables simplify making style adjustments across the webpage, and using different units provided more flexibility.

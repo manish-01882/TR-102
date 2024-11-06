@@ -1,0 +1,15 @@
+Date: July 10, 2024
+
+Topics Covered:
+
+    JavaScript Object-Oriented Programming (OOP) Basics
+
+Details:
+
+    OOP Concepts:
+        Learned the basics of object-oriented programming, including creating classes and objects.
+        Practiced creating methods within classes to structure code better.
+
+Reflection:
+
+    OOP concepts make the code feel more modular and organized, especially for larger projects with multiple functionalities.

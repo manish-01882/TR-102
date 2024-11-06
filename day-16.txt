@@ -1,0 +1,17 @@
+Here’s the next 10 days of the training diary, continuing from June 28, 2024 to July 11, 2024 (excluding weekends):
+
+Date: June 28, 2024
+
+Topics Covered:
+
+    Introduction to JavaScript
+
+Details:
+
+    JavaScript Basics:
+        Learned the basics of JavaScript, including syntax, variables, data types, and basic operators.
+        Wrote simple JavaScript code to perform basic arithmetic and display messages in the console.
+
+Reflection:
+
+    Getting started with JavaScript was exciting, and I’m looking forward to adding interactivity to my pages.

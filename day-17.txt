@@ -1,0 +1,15 @@
+Date: July 1, 2024
+
+Topics Covered:
+
+    JavaScript Functions and Scope
+
+Details:
+
+    Functions and Scope:
+        Explored how to create and use functions in JavaScript to organize code.
+        Learned about function scope and how variables behave inside and outside functions.
+
+Reflection:
+
+    Understanding functions makes JavaScript feel more manageable and helps keep the code organized.

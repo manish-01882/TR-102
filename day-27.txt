@@ -1,0 +1,16 @@
+Date: July 15, 2024
+
+Topics Covered:
+
+    JavaScript Functions, Scope, and Control Structures
+
+Details:
+
+    Functions and Scope:
+        Reviewed creating functions, and learned about scope with var, let, and const.
+    Conditionals and Loops:
+        Practiced using if, else, and loop structures to create interactive functionality.
+
+Reflection:
+
+    Learning control structures deepened my understanding of logical flows in JavaScript, essential for the interactive projects ahead.

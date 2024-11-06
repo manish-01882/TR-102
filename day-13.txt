@@ -1,0 +1,15 @@
+Date: June 25, 2024
+
+Topics Covered:
+
+    Advanced CSS Styling: Pseudo-classes and Pseudo-elements
+
+Details:
+
+    Using Pseudo-classes and Pseudo-elements:
+        Studied CSS pseudo-classes like :hover and :focus for interactive effects.
+        Used pseudo-elements like ::before and ::after to add custom content and style specific parts of elements.
+
+Reflection:
+
+    Adding interactive styles and custom content with pseudo-classes and pseudo-elements was fun and added visual interest to the page.

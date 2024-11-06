@@ -1,0 +1,16 @@
+Date: July 17, 2024
+
+Topics Covered:
+
+    JavaScript Promises, Fetch API, and JSON
+
+Details:
+
+    Async Operations:
+        Learned to handle asynchronous tasks with promises, async/await.
+    API Calls and JSON:
+        Practiced using the Fetch API to retrieve JSON data from public APIs.
+
+Reflection:
+
+    Using APIs to fetch and display data prepares me for building real-world applications like a weather app.

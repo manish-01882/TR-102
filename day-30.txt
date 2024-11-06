@@ -1,0 +1,16 @@
+Date: July 18, 2024
+
+Topics Covered:
+
+    Local Storage and Project: Weather App (Part 1)
+
+Details:
+
+    Local Storage:
+        Explored saving data in the browser with localStorage.
+    Weather App:
+        Began developing a weather app that fetches data from a weather API and stores location data in local storage.
+
+Reflection:
+
+    Combining APIs with local storage provided a practical challenge, enhancing user experience with persistent data.

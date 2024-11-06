@@ -1,0 +1,15 @@
+Date: July 23, 2024
+
+Topics Covered:
+
+    Project: Restaurant Website (Part 1)
+
+Details:
+
+    Building Layout and Navigation:
+        Created the homepage structure, including navigation, header, and main sections.
+        Added CSS styling to make it visually appealing and mobile-friendly.
+
+Reflection:
+
+    Starting the final project allowed me to bring together my HTML and CSS skills in a larger layout.

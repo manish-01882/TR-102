@@ -1,0 +1,15 @@
+Date: June 26, 2024
+
+Topics Covered:
+
+    CSS Transitions and Animations
+
+Details:
+
+    Creating Transitions and Animations:
+        Learned how to create smooth transitions for CSS properties like color and transform.
+        Practiced building simple animations with @keyframes to make elements move and change over time.
+
+Reflection:
+
+    Transitions and animations bring webpages to life, and even small effects can significantly enhance the user experience.

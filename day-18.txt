@@ -1,0 +1,15 @@
+Date: July 2, 2024
+
+Topics Covered:
+
+    JavaScript Control Structures
+
+Details:
+
+    Conditionals and Loops:
+        Practiced using if, else if, and else statements to make decisions in code.
+        Explored different types of loops (for, while) to repeat actions efficiently.
+
+Reflection:
+
+    Adding logic to the code with conditionals and loops made it feel more dynamic, opening up possibilities for more complex scripts.

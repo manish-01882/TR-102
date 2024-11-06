@@ -1,0 +1,15 @@
+Date: July 5, 2024
+
+Topics Covered:
+
+    JavaScript Events
+
+Details:
+
+    Handling User Events:
+        Explored different types of events (click, mouseover, input) and how to add event listeners in JavaScript.
+        Practiced creating interactive elements that respond to user actions.
+
+Reflection:
+
+    Learning about events made the webpages feel more dynamic and responsive, allowing for a more engaging user experience.

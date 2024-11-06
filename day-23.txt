@@ -1,0 +1,15 @@
+Date: July 9, 2024
+
+Topics Covered:
+
+    JavaScript Array Methods
+
+Details:
+
+    Array Manipulation:
+        Practiced using array methods such as push, pop, shift, unshift, map, filter, and reduce.
+        Learned how these methods help manage and transform data stored in arrays.
+
+Reflection:
+
+    Array methods make it easy to work with data in JavaScript, and using map and filter feels very efficient.
